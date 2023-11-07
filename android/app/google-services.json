@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447487697533",
+    "project_id": "unlimted-fdf06",
+    "storage_bucket": "unlimted-fdf06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447487697533:android:fbfd197c8c745933214714",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV-AFkJMCRU_-JuqPoon4Y48DG0FNNhZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
